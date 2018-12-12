@@ -1,0 +1,45 @@
+// Primary brand colors
+$primary: #004C97;
+$secondary: #004C97;
+$success: #007A33;
+$info: #009CDE;
+$warning: #F3D54E;
+$danger: #A6192E;
+$light: #f9f9f9;
+$dark: #444444;
+
+// Secondary brand colors
+$light-pink: #FABBCB;
+
+// MORE HERE
+
+// Enable colors?
+$theme-colors: (
+  "dark-red": #643335,
+  "medium-red": #A6192E,
+  "bright-red": #E4002B,
+  "light-pink": $light-pink
+);
+
+// Fonts
+$font-family-sans-serif:      "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace:       Menlo, Monaco, Consolas, "Courier New", monospace;
+$font-family-base:            $font-family-sans-serif;
+
+
+// Changing the body background and text
+$body-bg: #fff;
+$body-color: #444444;
+
+
+
+
+// Global border radius
+$border-radius: 3px;
+
+
+
+
+// Special features
+//$enable-shadows: true;
+//$enable-gradients: true;

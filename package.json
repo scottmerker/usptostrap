@@ -1,0 +1,28 @@
+{
+  "name": "USPTOstrap",
+  "version": "2.0.0",
+  "description": "A product of the United States Patent and Trademark Office",
+  "repository": "https://github.com/uspto/designsystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Rechsteiner",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "*",
+    "popper.js": "^1.14.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-scss-lint": "^0.7.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-webserver": "^0.9.1"
+  }
+}
